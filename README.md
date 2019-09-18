@@ -8,7 +8,9 @@ Pull recorded video files from a connected Oculus Quest.
 
 All requirements are talked about in this video (not me)
 
-[Youtube Explanation Video](https://www.youtube.com/watch?v=B3FCC4EUhuA&t=288s)
+[Enable Dev Mode](https://www.youtube.com/watch?v=mxzkVtrUWzc)
+
+[Where to Find Quest Video Files](https://youtu.be/B3FCC4EUhuA?t=158)
 
 - Windows 32bit
 - Oculus Developer ID
@@ -22,6 +24,6 @@ All requirements are talked about in this video (not me)
 2. If you want to pull all the files recorded by the Quest, Check the "Pull All Files" box. If you only want to pull a single file, you will have to find the filename of the exact file. this can be done by going to "This PC\Quest\Internal shared storage\Oculus\VideoShots". This can only be done after Developer mode has been turned on on your Quest.
 
 
-![1568843986400](http://vltmedia.com/w382f/OQDLS1_.png)
+![1568843986400](http://vltmedia.com/public_html/w382f/OQDLS1_.png)
 
 3. Hit the "Pull Video File" button to start the download. A command prompt window willl show up to signify the app is working.
