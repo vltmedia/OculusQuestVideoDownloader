@@ -15,9 +15,20 @@ All requirements are talked about in this video (not me)
 [Where to Find Quest Video Files](https://youtu.be/B3FCC4EUhuA?t=158)
 
 - Windows 32bit
+
 - Oculus Developer ID
+
 - Oculus Quest in Developer Mode
+
 - adb Installed (automatically installed if using NVIDIA Gameworks to install Android dev stuff on your computer)
+
+  - Check adb by typing in Command Prompt. If stuff comes up that isn't an error, you're good.
+
+  - ```
+    adb help
+    ```
+
+    
 
 ## Instructions
 
